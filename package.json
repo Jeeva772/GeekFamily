@@ -1,0 +1,15 @@
+{
+  "name": "meet-the-family",
+  "version": "1.0.0",
+  "description": "Given a ‘name’ and a ‘relationship’, you should output the people corresponding to the relationship in the order in",
+  "main": "geektrust.js",
+  "scripts": {
+    "start": "node geektrust.js",
+    "test": "jest --config=jest.config.js --runInBand --coverage"
+  },
+  "author": "Jeevanandhini Balraj",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}

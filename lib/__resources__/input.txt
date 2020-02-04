@@ -1,0 +1,17 @@
+ADD_CHILD Satya Ketu Male
+ADD_CHILD Satyaa Ketu Male
+GET_RELATIONSHIP Kriya Paternal-Uncle
+GET_RELATIONSHIP Satvy Brother-In-Law
+GET_RELATIONSHIP Satvy Sister-In-Law
+GET_RELATIONSHIP Ish Son
+GET_RELATIONSHIP Misha Daughter
+GET_RELATIONSHIP Chitra Daughter
+GET_RELATIONSHIP Jnki Siblings
+ADD_CHILD Chitra Aria Female
+GET_RELATIONSHIP Lavnya Maternal-Aunt
+GET_RELATIONSHIP Lavnya grand-son
+GET_RELATIONSHIP Yodhan Maternal-Uncle
+GET_RELATIONSHIP Kriya Paternal-Aunt
+GET_RELATIONSHIP Vyas Daughter
+GET_RELATIONSHIP Vyas Son
+GET_RELATIONSHIP Krpi Son
